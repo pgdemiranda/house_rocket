@@ -33,7 +33,7 @@ An e-mail containing:
 2. VS Code
 3. Jupyter Notebook
 4. Streamlit
-5. Streamlit Comunity Cloud
+5. Streamlit Community Cloud
 
 ### 2.4. - Schedule of Operation:
 1. Business comprehension (explained on our contact with House Rocket CEO)
