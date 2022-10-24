@@ -35,7 +35,7 @@ An e-mail containing:
 4. Streamlit
 5. Streamlit Comunity Cloud
 
-### 2.4. - Schedule:
+### 2.4. - Schedule of Operation:
 1. Business comprehension (explained on our contact with House Rocket CEO)
 2. Defining which tools are necessary to build our final products (item 2.3.)
 3. Importing and cleaning data
@@ -118,3 +118,5 @@ The csv files contains a [recomendation of 157 properties that could be bought b
 The objectives that were initially established have been met. 
 We answered both questions by delivering two csv files containing a list of 157 properties that can be acquired at a reasonable price by the company and sold in different seasons making a good profit. 
 If House Rocket can acquire and sell all the suggested properties, it can expect a total profit of **US$24222890.20**
+
+From here, this project can be refactored according to new parameters. Among the possibilities, the most interesting is the use of Machine Learning. This work can be done not only by revisiting all the steps of this project with more data and business understanding, but also by studying and evaluating the algorithms that can best deliver me a Machine Learning model that fits the evaluation we are looking for.
